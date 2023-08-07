@@ -1,0 +1,46 @@
+.box-model-1{
+display: flex;
+align-items: center;
+justify-content: center;
+border: 1px solid black;
+background-color: lightblue;
+max-width: 700px;
+}
+.box-model-1 div{
+margin: 12px;
+}
+.box-model-2{
+display: flex;
+align-items: center;
+justify-content: center;
+border: 1px solid black;
+background-color: lightblue;
+max-width: 700px;
+}
+.box-model-2 div{
+margin: 12px;
+}
+
+.box-model-3{
+display: flex;
+align-items: center;
+justify-content: center;
+border: 1px solid black;
+background-color: lightblue;
+max-width: 700px;
+}
+.box-model-3 div{
+margin: 12px;
+}
+
+.box-model-4{
+display: flex;
+align-items: center;
+justify-content: center;
+border: 1px solid black;
+background-color: lightblue;
+max-width: 700px;
+}
+.box-model- div{
+margin: 12px;
+}
